@@ -1,6 +1,6 @@
 # Frontend Mentor - Base Apparel coming soon page
 
-(https://nlefty.github.io/FM_base-apparel/)
+Preview: https://nlefty.github.io/FM_base-apparel/
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
