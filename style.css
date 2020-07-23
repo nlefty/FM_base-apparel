@@ -58,6 +58,11 @@ form {
   justify-content: center;
   width: 100%;
 }
+
+.email_form {
+  margin-bottom: 2em;
+}
+
 .email-input {
   background-color: hsl(0, 100%, 98%);
   border-radius: 50px;
